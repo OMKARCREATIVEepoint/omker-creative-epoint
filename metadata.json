@@ -1,0 +1,6 @@
+{
+  "name": "Omkar Creative E-Point - CSC & Digital Seva Kendra",
+  "description": "Common Service Center (CSC) & Digital Seva Kendra in Gopiballavpur, Jhargram. Banking, AePS, PAN Card, Certificates, Bill Payment, Travel & Gov Services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
